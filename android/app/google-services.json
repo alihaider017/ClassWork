@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "550937964564",
+    "project_id": "mad-lab-final-debbb",
+    "storage_bucket": "mad-lab-final-debbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550937964564:android:0ad6e9a69758cbcea77701",
+        "android_client_info": {
+          "package_name": "com.example.labfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550937964564-p4lsdcfetsek3e1o7r33ce7g4056f39i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.labfinal",
+            "certificate_hash": "eb42b3d688193c35a7e28c4a7dac83a3a3a4051a"
+          }
+        },
+        {
+          "client_id": "550937964564-7vr84aouq5sg3sfij97ph0pqhsm3k2s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXCyndMY2gVPV0FhEJGvBjrvnJsDqUtVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550937964564-7vr84aouq5sg3sfij97ph0pqhsm3k2s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
